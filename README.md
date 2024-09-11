@@ -34,7 +34,6 @@ WEB DEVELOPER FULL STACK DEVELOPER
 
 
 
-<div width="100%" align="center"><a href="https://github.com/theabhishekmauryaa/theabhishekmauryaa" align="left"><img align="left" width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=theabhishekmauryaa&repo=theabhishekmauryaa&title_color=ffffff&text_color=14b8a6&icon_color=84cc16&bg_color=0f172a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 ### Support Me
 
