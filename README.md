@@ -32,9 +32,9 @@ WEB DEVELOPER FULL STACK DEVELOPER
 
 <a href="https://github.com/theabhishekmauryaa" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theabhishekmauryaa&langs_count=10&title_color=ffffff&text_color=14b8a6&icon_color=84cc16&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/theabhishekmauryaa/theabhishekmauryaa" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=theabhishekmauryaa&repo=theabhishekmauryaa&title_color=ffffff&text_color=14b8a6&icon_color=84cc16&bg_color=0f172a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+<div width="100%" align="center"><a href="https://github.com/theabhishekmauryaa/theabhishekmauryaa" align="left"><img align="left" width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=theabhishekmauryaa&repo=theabhishekmauryaa&title_color=ffffff&text_color=14b8a6&icon_color=84cc16&bg_color=0f172a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 ### Support Me
 
