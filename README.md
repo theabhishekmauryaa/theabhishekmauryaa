@@ -6,7 +6,7 @@ SDET learning software testing skills from different automation tools and framew
 
 * 🌍  I'm based in Patna,Bihar
 * ✉️  You can contact me at [abhishekkumarverna0811@gmail.com](mailto:abhishekkumarverna0811@gmail.com)
-* 🧠  I'm learning I'm learn about DSA, JavaScript, React.....
+* 🧠  I'm learning I'm learn about DSA, Manual Testing, Cypress,JavaScript,API Testing, Selenium.....
 
 ### Skills
 
