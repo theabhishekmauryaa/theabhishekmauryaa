@@ -1,46 +1,85 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abhishek Maurya
 =======================================================================================================================================
 
-SDET learning software testing skills from different automation tools and framework
-----------------------------------
+
+I'm a passionate **Software Developer** focusing on **Automation Testing** and **Web Development**. Currently, I'm diving deep into **Selenium WebDriver**, **Cypress**, and **Data Structures & Algorithms** to grow as a **Software Development Engineer in Test (SDET)**.
+
+---
 
 * 🌍  I'm based in Patna,Bihar
 * ✉️  You can contact me at [abhishekkumarverna0811@gmail.com](mailto:abhishekkumarverna0811@gmail.com)
 * 🧠  I'm learning I'm learn about DSA, Manual Testing, Cypress,JavaScript,API Testing, Selenium.....
+------------------------------------------------------------------------------------------------
 
-### Skills
+## 💡 What I Do
+- **Automation Testing**: Writing tests with **Selenium** and **Cypress** for real-world applications.
+- **Problem Solving**: Working on **DSA** problems to sharpen my problem-solving skills.
+- **Web Development**: Building beautiful and functional websites with **HTML**, **CSS**, and **JavaScript**.
+
+---
+
+## ⚙️ Technologies & Tools
+- **Languages**: Java, JavaScript, HTML, CSS
+- **Testing Tools**: Selenium WebDriver, Cypress, JUnit, TestNG
+- **Version Control**: Git, GitHub
+- **Web Development**: Node.js, React (learning)
+- **Other Tools**: Postman, Jenkins, JIRA, Docker
+
+---
+
+## 📝 Currently Learning
+- **Selenium WebDriver**: Advanced interactions, working with dropdowns, frames, and browser windows.
+- **Cypress**: Writing end-to-end tests for modern web applications.
+- **DSA**: Solving algorithmic challenges related to arrays, strings, and recursion in JavaScript and Java.
+
+---
+
+## 📬 Let's Connect
+- **Email**: abhishekkumarverma0811@gmail.com
+- **LinkedIn**: ([https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/abhishek-maurya-7516b6218/))
+- **Twitter**: [@MyUsername](https://x.com/abhiahek_verma)
+- **GitHub**: [My GitHub Profile](https://github.com/theabhishekmauryaa)
+
+---
+
+## 🎮 Fun Fact
+- I'm a huge fan of **cricket** and my favorite player is **Rohit Sharma**. I also enjoy **traveling** and **social work** in my free time.
+
+---
+
+Thanks for stopping by! 😊 Feel free to check out my repositories or connect with me.
 
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+---
+
+### 📈 My GitHub Stats  
+<p align="center">
+  <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sukhmani-kaur1&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img width="32%" src="https://github-readme-stats.vercel.app/api?username=sukhmani-kaur1&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img width="32%" src="https://streak-stats.demolab.com/?user=sukhmani-kaur1&theme=default" alt="GitHub Streaks" />
 </p>
 
+---
 
-### Socials
+### 🌐 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/abhishek-maurya-7516b6218/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/abhiahek_verma" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="mailto:abhishekkumarverma0811@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-<p align="left"> <a href="https://discord.com/users/coderMauryaAbhi" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/theabhishekmauryaa" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/coder_with_maurya/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/abhishek-maurya-7516b6218/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.threads.net/@coder_with_maurya" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" /> </picture> </a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/theabhishekmauryaa"><img src="https://github-readme-stats.vercel.app/api?username=theabhishekmauryaa&show_icons=true&hide=issues,&count_private=true&title_color=ffffff&text_color=14b8a6&icon_color=84cc16&bg_color=0f172a&hide_border=true&show_icons=true" alt="theabhishekmauryaa's GitHub stats" /></a>
-
-<a href="http://www.github.com/theabhishekmauryaa"><img src="https://github-readme-streak-stats.herokuapp.com/?user=theabhishekmauryaa&stroke=14b8a6&background=0f172a&ring=ffffff&fire=ffffff&currStreakNum=14b8a6&currStreakLabel=ffffff&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
-
-<a href="http://www.github.com/theabhishekmauryaa"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=theabhishekmauryaa&bg_color=0f172a&color=14b8a6&line=84cc16&point=14b8a6&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/theabhishekmauryaa" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theabhishekmauryaa&langs_count=10&title_color=ffffff&text_color=14b8a6&icon_color=84cc16&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-
+---
 
 
-### Support Me
+### 💬 Let's Collaborate
+👩‍💻 I'm open to collaborating on **open-source projects** related to **testing** and **automation**. Let's build something amazing together!  
 
-<ul style="list-style-type: none; margin: 0;">
+---
 
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/mauryaabhi"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/mauryaabhi"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
-
-</ul>
+#### 📄 [View My Resume](https://resume-builder-test-new.masaischool.com/resume/public?resumeId=678689b8f7b3074e912984ac)  
